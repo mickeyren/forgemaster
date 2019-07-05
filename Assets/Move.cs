@@ -4,23 +4,24 @@ using UnityEngine;
 
 public class Move : MonoBehaviour
 {
+    public Splatter splatter;
     public GameObject triggerAnimation;
     private GameObject prefabCopy;
     private bool colliding = false;
     // Start is called before the first frame update
     void Start()
     {
-        Color randomColor = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
-        //Fetch the Renderer from the GameObject
-        Renderer rend = GetComponent<Renderer>();
+        //Color randomColor = Random.ColorHSV(0f, 1f, 1f, 1f, 0.5f, 1f);
+        ////Fetch the Renderer from the GameObject
+        //Renderer rend = GetComponent<Renderer>();
 
-        //Set the main Color of the Material to green
-        rend.material.shader = Shader.Find("_Color");
-        rend.material.SetColor("_Color", randomColor);
+        ////Set the main Color of the Material to green
+        //rend.material.shader = Shader.Find("_Color");
+        //rend.material.SetColor("_Color", randomColor);
 
-        //Find the Specular shader and change its Color to red
-        rend.material.shader = Shader.Find("Specular");
-        rend.material.SetColor("_SpecColor", Color.red);
+        ////Find the Specular shader and change its Color to red
+        //rend.material.shader = Shader.Find("Specular");
+        //rend.material.SetColor("_SpecColor", Color.red);
 
         float targetx = 0f;
         if (transform.position.x < 0)
@@ -50,8 +51,9 @@ public class Move : MonoBehaviour
         if (colliding) return;
         Debug.Log("Note OnTrigger2D Enter");
 
-        prefabCopy = Instantiate(triggerAnimation, collision.transform.position, Quaternion.identity);
-        Destroy(prefabCopy, 0.35f);
+        Instantiate(splatter, collision.transform.position, Quaternion.identity);
+        //prefabCopy = Instantiate(triggerAnimation, collision.transform.position, Quaternion.identity);
+        //Destroy(prefabCopy, 0.35f);
         colliding = true;
     }
 }
