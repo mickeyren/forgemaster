@@ -5,6 +5,7 @@ using UnityEngine;
 public class NotesMaker : MonoBehaviour
 {
     public GameObject note;
+    public Camera mainCamera;
     // Start is called before the first frame update
     void Start()
     {
@@ -19,7 +20,8 @@ public class NotesMaker : MonoBehaviour
 
     void CreateNote()
     {
-        Instantiate(note, new Vector3(Random.Range(-1, 2), 4f, 0), Quaternion.identity);
+        float starty = mainCamera.transform.position.y + 5.0f;
+        Instantiate(note, new Vector3(Random.Range(-1, 2), starty, 0), Quaternion.identity);
         
     }
 }

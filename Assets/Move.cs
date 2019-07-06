@@ -29,7 +29,7 @@ public class Move : MonoBehaviour
         else if (transform.position.x > 0)
             targetx = 2.0f;
         
-        iTween.MoveTo(gameObject, iTween.Hash("x", targetx, "y", -5, "easeType", "easeInCubic", "loopType", "none", "time", 2, "oncomplete", "DestroyMe"));
+        iTween.MoveTo(gameObject, iTween.Hash("x", targetx, "y", -5, "easeType", "linear", "loopType", "none", "time", 2, "oncomplete", "DestroyMe"));
         iTween.ScaleBy(gameObject, iTween.Hash("y", 1.5, "easeType", "easeInCubic", "loopType", "none", "x", 2, "time", 2, "oncomplete", "DestroyMe"));
 
         
@@ -49,7 +49,7 @@ public class Move : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (colliding) return;
-        Debug.Log("Note OnTrigger2D Enter");
+        // Debug.Log("Note OnTrigger2D Enter");
 
         Instantiate(splatter, collision.transform.position, Quaternion.identity);
         //prefabCopy = Instantiate(triggerAnimation, collision.transform.position, Quaternion.identity);

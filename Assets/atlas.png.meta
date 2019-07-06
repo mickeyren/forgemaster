@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: b61762114fbef4068942a2f483542bd9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlas
+    21300002: lazer_cannon_inclined2
+    21300004: lazer_cannon_inclined2_2
+    21300006: lazer_cannon_straight
+    21300008: Lazer_fire_1_rise1
+    21300010: Lazer_fire_1_rise2
+    21300012: Lazer_fire_1_rise3
+    21300014: Lazer_fire_1_rise4
+    21300016: Lazer_fire_3_damping1
+    21300018: Lazer_fire_3_damping2
+    21300020: Lazer_fire_3_damping3
+    21300022: Lazer_fire_3_damping4
+    21300024: Rockett+explosion1
+    21300026: Rockett+explosion2
+    21300028: Rockett+explosion3
+    21300030: Rockett+explosion4
+    21300032: Rockett+explosion5
+    21300034: Rockett+explosion6
+    21300036: Rockett+explosion7
+    21300038: Rockett+explosion8
+    21300040: Rockett+explosion9
+    21300042: Rockett+explosion10
+    21300044: Rockett+explosion11
+    21300046: spark_inclined1
+    21300048: spark_inclined2
+    21300050: spark_inclined3
+    21300052: spark_inclined4
+    21300054: spark_inclined5
+    21300056: spark_inclined6
+    21300058: spark_inclined7
+    21300060: spark_inclined8
+    21300062: spark_inclined9
+    21300064: spark_inclined_2_1
+    21300066: spark_inclined_2_2
+    21300068: spark_inclined_2_3
+    21300070: spark_inclined_2_4
+    21300072: spark_inclined_2_5
+    21300074: spark_inclined_2_6
+    21300076: spark_inclined_2_7
+    21300078: spark_inclined_2_8
+    21300080: spark_inclined_2_9
+    21300082: spark_strainght1
+    21300084: spark_strainght2
+    21300086: spark_strainght3
+    21300088: spark_strainght4
+    21300090: spark_strainght5
+    21300092: spark_strainght6
+    21300094: spark_strainght7
+    21300096: spark_strainght8
+    21300098: spark_strainght9
+    21300100: z_0000_meteor6
+    21300102: z_0001_meteor5
+    21300104: z_0002_meteor4
+    21300106: z_0003_meteor3
+    21300108: z_0004_meteor2
+    21300110: z_0005_meteor1
+    21300112: Explosion10
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Explosion10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 758
+        width: 151
+        height: 149
+      alignment: 9
+      pivot: {x: 0.49006623, y: 0.5100671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6378adc37fe0440979de8196bd1b3681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazer_cannon_inclined2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 160
+        width: 113
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4778761, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2342e5f56a0450892efb45e2dbd9f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazer_cannon_inclined2_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 387
+        width: 111
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5045045, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efeb385ce43b4440a0385eef9880ea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lazer_cannon_straight
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 261
+        width: 114
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8e4a032f45d48f5bc77680a5d25490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_1_rise1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 685
+        width: 11
+        height: 69
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.92753625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c54e525816474ef2aeb8a609e5c7dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_1_rise2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 698
+        width: 37
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.7804878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0664e4cd3e36440d086e402ae7867f80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_1_rise3
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 456
+        width: 56
+        height: 89
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.71910113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b1dba656336434d8f6aa5143050931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_1_rise4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 696
+        width: 62
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64646465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c5274649d5ea4545ae296e76b69c941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_3_damping1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 780
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120bdeaad1b5d48d1a8009fd42bb88ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_3_damping2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 784
+        width: 119
+        height: 123
+      alignment: 9
+      pivot: {x: 0.52100843, y: 0.5203252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be743bf4308364d88aa4c47c368aa08e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_3_damping3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 328
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5479452, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c8893d02cf14fb589feb1ee5b529fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_3_damping4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 218
+        width: 73
+        height: 71
+      alignment: 9
+      pivot: {x: 0.60273975, y: 0.47887325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd05c42e02f448f09e1c9fb268bdb14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 390
+        width: 24
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.38181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd0221ae4ade48d4865f3ccc7ff2a94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion2
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 5
+        width: 46
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa2ece3cfded41b5ab983278ac83927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 723
+        width: 92
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.3472222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc578917857264678ae02ab293df4ce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion4
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 610
+        width: 115
+        height: 63
+      alignment: 9
+      pivot: {x: 0.51304346, y: 0.41269842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974f3cd68ed0f4ea4b61752c54af92a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 602
+        width: 126
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42424244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcfe8ba95a384895b42af61f5a5a1fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 673
+        width: 43
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.2173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed11e0e2beb7f4334b9454206d0fc320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 613
+        width: 45
+        height: 61
+      alignment: 9
+      pivot: {x: 0.42222223, y: 0.36065573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7fd0a539b364e4bbf121dafdecba04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 42
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4047619, y: 0.3773585}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1381693c496436198ccd92f7ec0eab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 69
+        height: 77
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0.2857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df031acc6af1c4be58351af3c9b91172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 66
+        width: 74
+        height: 72
+      alignment: 9
+      pivot: {x: 0.43243244, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3b300c64ab644b1a8604677192c1b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rockett+explosion11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 164
+        width: 48
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b94d092fbbc4e0db75bf3e3d1e2ea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 140
+        width: 113
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4778761, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1733994afe1dd4c74a9f82d8fd11a369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 186
+        width: 113
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4778761, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7cd94f32dfd41f39aca77e1dc36eb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 198
+        width: 114
+        height: 99
+      alignment: 9
+      pivot: {x: 0.48245615, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adcf88b6c8024bb1a988f15e4d960fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 98
+        width: 112
+        height: 98
+      alignment: 9
+      pivot: {x: 0.4732143, y: 0.45918366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1a2d859414f49538aeb35da6d5d3b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 675
+        width: 115
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4869565, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81939be7db564aa2a6e91bd34bbbe31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 286
+        width: 115
+        height: 99
+      alignment: 9
+      pivot: {x: 0.4869565, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969c6f93db961497c9933c1bcbd8b6d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 558
+        width: 123
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5203252, y: 0.41284403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f787456bec8a3477d82f42bb740ac10a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 123
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5203252, y: 0.41284403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95af8d2269840464bb3aec8da31d82b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 666
+        width: 123
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5203252, y: 0.41284403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5568b5da9d06f4a6ab59d12f3920abb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined_2_1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 492
+        width: 111
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5045045, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521ca659b47604e84b5f32e8bd5c0922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined_2_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 253
+        width: 111
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5045045, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612972908369d4c3fb42baef909e0546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined_2_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 124
+        width: 111
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5045045, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dc97ee9284b495fb50118568067305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined_2_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 59
+        width: 109
+        height: 99
+      alignment: 9
+      pivot: {x: 0.51376146, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154ba8760c2db45efa996ca4fd2c332f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined_2_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 85
+        width: 111
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5045045, y: 0.45454547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6911a7b51a4104d0997c73ef801d871e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined_2_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 346
+        width: 112
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dfca4abfdb246968864a5f29131a75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined_2_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 798
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.41284403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bb09e33631b43a68ad676b14d58ac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined_2_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.41284403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381d1ba18a9c64799b43b5e846e59bfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_inclined_2_9
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 687
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.46666667, y: 0.41284403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9b9ce6b52cf45f59af28caaebe57fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_strainght1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 375
+        width: 114
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61b281b4d7ef4b2ab37684852b94bbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_strainght2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 671
+        width: 114
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41121495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8924370a87b44c919ca7a380c58f2a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_strainght3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 453
+        width: 114
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf89a330f11a24e2090420fcda96ef65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_strainght4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 299
+        width: 114
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41121495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffe29879e2c04d77ae8cd3db088ff66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_strainght5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 578
+        width: 114
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41121495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a150751480740bdaddf10453a7f786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_strainght6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 532
+        width: 114
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0797a1ad1bcf14e9abc262021fa38577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_strainght7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 485
+        width: 114
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c992673a2740d494fad4675250afe92c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_strainght8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 226
+        width: 114
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29392110451ef4c7eacd0535f0db279d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spark_strainght9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 414
+        width: 114
+        height: 108
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382f57c3fdb90485e9e1e82bf95b67c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z_0000_meteor6
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 818
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a2b4c0b50b049989415b3a5d737e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z_0001_meteor5
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 19
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971bd9171d778418c9119625569eef38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z_0002_meteor4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 33
+        width: 63
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50793654, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91f798e5114a4e27a4899e3538b83be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z_0003_meteor3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 547
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ece6c5f533d24dcd8b126a1b4ef803b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z_0004_meteor2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 33
+        width: 64
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3618daaf3b6542969ad25db64939113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: z_0005_meteor1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 22
+        width: 63
+        height: 61
+      alignment: 9
+      pivot: {x: 0.50793654, y: 0.4918033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198cb50dce05940309d7f7265270e3b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4b18660e00b8e4809962f3c9d49b0f09
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
