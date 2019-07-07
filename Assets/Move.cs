@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System;
 
 public class Move : MonoBehaviour
 {
@@ -29,8 +30,8 @@ public class Move : MonoBehaviour
         else if (transform.position.x > 0)
             targetx = 2.0f;
         
-        iTween.MoveTo(gameObject, iTween.Hash("x", targetx, "y", -5, "easeType", "linear", "loopType", "none", "time", 2, "oncomplete", "DestroyMe"));
-        iTween.ScaleBy(gameObject, iTween.Hash("y", 1.5, "easeType", "easeInCubic", "loopType", "none", "x", 2, "time", 2, "oncomplete", "DestroyMe"));
+        iTween.MoveTo(gameObject, iTween.Hash("x", targetx, "y", -5, "easeType", "easeInCubic", "loopType", "none", "time", 2, "oncomplete", "DestroyMe"));
+        iTween.ScaleBy(gameObject, iTween.Hash("y", 4, "easeType", "easeInCubic", "loopType", "none", "x", 4, "time", 2, "oncomplete", "DestroyMe"));
 
         
     }
@@ -49,9 +50,24 @@ public class Move : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (colliding) return;
-        // Debug.Log("Note OnTrigger2D Enter");
+        Debug.Log("Note OnTrigger2D Enter");
+		Destroy(gameObject);
 
-        Instantiate(splatter, collision.transform.position, Quaternion.identity);
+                
+		GameObject fragments = GameObject.Find("MeteorFragments");
+        Explodable[] explodables = fragments.GetComponentsInChildren<Explodable>();
+        triggerAnimation = Array.Find(explodables, i => i.exploding == false).gameObject;
+
+        //triggerAnimation = explodables[0].gameObject;
+
+        triggerAnimation.transform.position = collision.transform.position;
+
+        Explodable _explodable = triggerAnimation.GetComponent<Explodable>();
+        _explodable.explode(collision.transform.position);
+        //ExplosionForce ef = GameObject.FindObjectOfType<ExplosionForce>();
+        //ef.doExplosion(transform.position);
+
+        //Instantiate(triggerAnimation, collision.transform.position, Quaternion.identity);
         //prefabCopy = Instantiate(triggerAnimation, collision.transform.position, Quaternion.identity);
         //Destroy(prefabCopy, 0.35f);
         colliding = true;
