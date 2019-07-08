@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System;
+// using System;
 
 public class Move : MonoBehaviour
 {
@@ -53,11 +53,18 @@ public class Move : MonoBehaviour
 		Destroy(gameObject);
 
                 
-		GameObject fragments = GameObject.Find("MeteorFragments");
+		GameObject fragments = GameObject.Find("Meteor Fragments");
         Explodable[] explodables = fragments.GetComponentsInChildren<Explodable>();
-        triggerAnimation = Array.Find(explodables, i => i.exploding == false).gameObject;
 
-        //triggerAnimation = explodables[0].gameObject;
+		//while(triggerAnimation = Array.Find(explodables, i => i.exploding == false).gameObject;
+
+		Explodable explodable = explodables[Random.Range(0, explodables.Length)];
+		while (explodable.exploding)
+		{
+			explodable = explodables[Random.Range(0, explodables.Length)];
+		}		
+
+        triggerAnimation = explodable.gameObject;
 
         triggerAnimation.transform.position = collision.transform.position;
 
