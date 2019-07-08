@@ -59,6 +59,49 @@ TextureImporter:
     21300108: z_0004_meteor2
     21300110: z_0005_meteor1
     21300112: Explosion10
+    21300114: beam_corner_1
+    21300116: Lazer_fire_2_cycle1
+    21300118: Lazer_fire_2_cycle2
+    21300120: Lazer_fire_2_cycle3
+    21300122: Lazer_fire_2_cycle4
+    21300124: Lazer_fire_2_cycle5
+    21300126: Lazer_fire_2_cycle6
+    21300128: Lazer_fire_1_rise1r
+    21300130: Lazer_fire_1_rise1u
+    21300132: Lazer_fire_1_rise2r
+    21300134: Lazer_fire_1_rise2u
+    21300136: Lazer_fire_1_rise3r
+    21300138: Lazer_fire_1_rise3u
+    21300140: Lazer_fire_1_rise4r
+    21300142: Lazer_fire_1_rise4u
+    21300144: Lazer_fire_2_cycle1r
+    21300146: Lazer_fire_2_cycle1u
+    21300148: Lazer_fire_3_damping1r
+    21300150: Lazer_fire_3_damping1u
+    21300152: Lazer_fire_3_damping2r
+    21300154: Lazer_fire_3_damping2u
+    21300156: Lazer_fire_3_damping3r
+    21300158: Lazer_fire_3_damping3u
+    21300160: Lazer_fire_3_damping4r
+    21300162: Lazer_fire_3_damping4u
+    21300164: Lazer_fire_right_1_rise1
+    21300166: Lazer_fire_right_1_rise2
+    21300168: Lazer_fire_right_1_rise3
+    21300170: Lazer_fire_right_1_rise4
+    21300172: Lazer_fire_right_2_cycle1
+    21300174: Lazer_fire_right_3_damping1
+    21300176: Lazer_fire_right_3_damping2
+    21300178: Lazer_fire_right_3_damping3
+    21300180: Lazer_fire_right_3_damping4
+    21300182: Lazer_fire_up_1_rise1
+    21300184: Lazer_fire_up_1_rise2
+    21300186: Lazer_fire_up_1_rise3
+    21300188: Lazer_fire_up_1_rise4
+    21300190: Lazer_fire_up_2_cycle1
+    21300192: Lazer_fire_up_3_damping1
+    21300194: Lazer_fire_up_3_damping2
+    21300196: Lazer_fire_up_3_damping3
+    21300198: Lazer_fire_up_3_damping4
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -130,11 +173,31 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
+      name: beam_corner_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 899
+        width: 2
+        height: 2
+      alignment: 9
+      pivot: {x: 32, y: -31}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b32e49a88824241ba2d0b2ab689bc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: Explosion10
       rect:
         serializedVersion: 2
         x: 1
-        y: 874
+        y: 1898
         width: 151
         height: 149
       alignment: 9
@@ -144,7 +207,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d749efe4ff50047d7b2f135edb69ff33
+      spriteID: 1dda65e53aaa541608d3600f7f3dacee
       vertices: []
       indices: 
       edges: []
@@ -153,8 +216,8 @@ TextureImporter:
       name: lazer_cannon_inclined2
       rect:
         serializedVersion: 2
-        x: 254
-        y: 209
+        x: 240
+        y: 1948
         width: 113
         height: 99
       alignment: 9
@@ -164,7 +227,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec3a41267ed4b4a22b5516b693374e4a
+      spriteID: d3cf70c80ab894760a62fe8668a46d0d
       vertices: []
       indices: 
       edges: []
@@ -173,8 +236,8 @@ TextureImporter:
       name: lazer_cannon_inclined2_2
       rect:
         serializedVersion: 2
-        x: 97
-        y: 477
+        x: 88
+        y: 239
         width: 111
         height: 105
       alignment: 9
@@ -184,7 +247,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b06874b4799d4e43b8f0485d247a22c
+      spriteID: edc425e0d16c74a96ba5e89e655e6f77
       vertices: []
       indices: 
       edges: []
@@ -193,8 +256,8 @@ TextureImporter:
       name: lazer_cannon_straight
       rect:
         serializedVersion: 2
-        x: 360
-        y: 793
+        x: 139
+        y: 1932
         width: 114
         height: 108
       alignment: 9
@@ -204,7 +267,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4934d2d694e940a08331caf74385d5c
+      spriteID: 7d70432be24c14192b8caffa9b3c7fc7
       vertices: []
       indices: 
       edges: []
@@ -213,8 +276,8 @@ TextureImporter:
       name: Lazer_fire_1_rise1
       rect:
         serializedVersion: 2
-        x: 289
-        y: 947
+        x: 103
+        y: 1371
         width: 72
         height: 76
       alignment: 9
@@ -224,7 +287,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 245c7dca2d9c74c46933db8eee4a7323
+      spriteID: 5a4f3ec835bc24d6bb4fd9a8237196f8
       vertices: []
       indices: 
       edges: []
@@ -233,8 +296,8 @@ TextureImporter:
       name: Lazer_fire_1_rise2
       rect:
         serializedVersion: 2
-        x: 82
-        y: 795
+        x: 1
+        y: 5
         width: 79
         height: 79
       alignment: 9
@@ -244,7 +307,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af917607fc4214a9f94e738b2723f8d0
+      spriteID: 08ba8e05adc48411fb1de38c805f6beb
       vertices: []
       indices: 
       edges: []
@@ -253,8 +316,8 @@ TextureImporter:
       name: Lazer_fire_1_rise3
       rect:
         serializedVersion: 2
-        x: 388
-        y: 483
+        x: 190
+        y: 38
         width: 85
         height: 88
       alignment: 9
@@ -264,7 +327,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e1903bf2544924628ae0151f343166b4
+      spriteID: c53a1249c0b004a1392a3f10bfbc3ae6
       vertices: []
       indices: 
       edges: []
@@ -273,8 +336,8 @@ TextureImporter:
       name: Lazer_fire_1_rise4
       rect:
         serializedVersion: 2
-        x: 251
-        y: 8
+        x: 327
+        y: 1847
         width: 101
         height: 99
       alignment: 9
@@ -284,7 +347,27 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2964f6c6bbe994bd48f922361709302a
+      spriteID: 18ae679627d0b43ea8c71a712e6744eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_2_cycle1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1252
+        width: 127
+        height: 128
+      alignment: 9
+      pivot: {x: 0.496063, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5221218572d4d0eaec2e1c956705c2
       vertices: []
       indices: 
       edges: []
@@ -293,8 +376,8 @@ TextureImporter:
       name: Lazer_fire_3_damping1
       rect:
         serializedVersion: 2
-        x: 153
-        y: 896
+        x: 1
+        y: 1511
         width: 128
         height: 127
       alignment: 9
@@ -304,7 +387,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7af158022b100443d818f1d19cd705dc
+      spriteID: 9bda4814e8a6441ae8d277478df99ffa
       vertices: []
       indices: 
       edges: []
@@ -313,8 +396,8 @@ TextureImporter:
       name: Lazer_fire_3_damping2
       rect:
         serializedVersion: 2
-        x: 141
-        y: 779
+        x: 1
+        y: 1135
         width: 126
         height: 123
       alignment: 9
@@ -324,7 +407,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: df3dd1ef205894a4993a6c2231ebc2ff
+      spriteID: 18ee69344de254cc9bfde8b50af769f0
       vertices: []
       indices: 
       edges: []
@@ -333,8 +416,8 @@ TextureImporter:
       name: Lazer_fire_3_damping3
       rect:
         serializedVersion: 2
-        x: 79
-        y: 704
+        x: 189
+        y: 1100
         width: 73
         height: 64
       alignment: 9
@@ -344,7 +427,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: eb6c41bde8fc14c68ab14465c4137f38
+      spriteID: f64a36aedc6564b91aad2e44b70cdbde
       vertices: []
       indices: 
       edges: []
@@ -353,8 +436,8 @@ TextureImporter:
       name: Lazer_fire_3_damping4
       rect:
         serializedVersion: 2
-        x: 315
-        y: 26
+        x: 232
+        y: 55
         width: 73
         height: 71
       alignment: 9
@@ -364,7 +447,367 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aefa10ed727234698b9674a76d2c41da
+      spriteID: 27bd90782386c41788efb4d15fe2e260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_right_1_rise1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1083
+        width: 72
+        height: 78
+      alignment: 9
+      pivot: {x: 0.8888889, y: 0.82051283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ed8aca678fe414ca82b375ab10a9a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_right_1_rise2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 377
+        width: 98
+        height: 88
+      alignment: 9
+      pivot: {x: 0.6530612, y: 0.72727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d64e6f6d1afa48c29cc2ba21e973931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_right_1_rise3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 930
+        width: 92
+        height: 91
+      alignment: 9
+      pivot: {x: 0.6956522, y: 0.7032967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd62aa4c71fe4bc98e2109e25778dfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_right_1_rise4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 649
+        width: 106
+        height: 99
+      alignment: 9
+      pivot: {x: 0.6037736, y: 0.64646465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ee1cbc17dc746e296922cd0af40b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_right_2_cycle1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1639
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a061193c8d541a0a3800dd4ed8f382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_right_3_damping1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1768
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3df0000bec040dc99defc2aa71297f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_right_3_damping2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1551
+        width: 121
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5289256, y: 0.5203252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ede4c6ca1aac4150bef1b0fe37ec141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_right_3_damping3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1100
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5479452, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcea708e77364bbe95ca4caf4d263b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_right_3_damping4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 55
+        width: 73
+        height: 71
+      alignment: 9
+      pivot: {x: 0.60273975, y: 0.47887325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cacb7a59390a45d4b753b5fb6763dc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_up_1_rise1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 879
+        width: 11
+        height: 69
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.92753625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c28137b71cf45658ff741d3091a8b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_up_1_rise2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1965
+        width: 37
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5405405, y: 0.7804878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fecb4c742e84528a1f124c52359c59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_up_1_rise3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1958
+        width: 56
+        height: 89
+      alignment: 9
+      pivot: {x: 0.53571427, y: 0.71910113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2580f75ee5624a3cb51f074de6c466a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_up_1_rise4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1524
+        width: 62
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0.64646465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f0f4895850f4d4599a77bb59d02101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_up_2_cycle1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1427
+        width: 126
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52459013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b654cc1608914f3c9f9182fe8eaed73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_up_3_damping1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1382
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.503937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f387e70054b3a42bb8cdf0714dc7224f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_up_3_damping2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1807
+        width: 119
+        height: 123
+      alignment: 9
+      pivot: {x: 0.52100843, y: 0.5203252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae170aec2583348f290ced64f2d288b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_up_3_damping3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1100
+        width: 73
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5479452, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8185b8920639b472db519c4322f87c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazer_fire_up_3_damping4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 55
+        width: 73
+        height: 71
+      alignment: 9
+      pivot: {x: 0.60273975, y: 0.47887325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb43066e18284dfea50d99a9abdf48e
       vertices: []
       indices: 
       edges: []
@@ -373,8 +816,8 @@ TextureImporter:
       name: spark_inclined1
       rect:
         serializedVersion: 2
-        x: 138
-        y: 283
+        x: 199
+        y: 228
         width: 113
         height: 99
       alignment: 9
@@ -384,7 +827,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9708ff995a9c04b5ca5f82bf7c6aafa2
+      spriteID: d8978a32ee18a43e38aed8175226bf8b
       vertices: []
       indices: 
       edges: []
@@ -393,8 +836,8 @@ TextureImporter:
       name: spark_inclined2
       rect:
         serializedVersion: 2
-        x: 347
-        y: 371
+        x: 187
+        y: 904
         width: 113
         height: 99
       alignment: 9
@@ -404,7 +847,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4d887647eed744229bd6e4c47a80afff
+      spriteID: 16a97229ed5b74f9591f6327feb6f4bc
       vertices: []
       indices: 
       edges: []
@@ -413,8 +856,8 @@ TextureImporter:
       name: spark_inclined3
       rect:
         serializedVersion: 2
-        x: 229
-        y: 310
+        x: 109
+        y: 750
         width: 114
         height: 99
       alignment: 9
@@ -424,7 +867,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2e806338060f4a8195883fc1e2a7e60
+      spriteID: 2e302b4e02d4947eeb71356ad18fb2c3
       vertices: []
       indices: 
       edges: []
@@ -433,8 +876,8 @@ TextureImporter:
       name: spark_inclined4
       rect:
         serializedVersion: 2
-        x: 254
-        y: 109
+        x: 198
+        y: 128
         width: 112
         height: 98
       alignment: 9
@@ -444,7 +887,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c4305c535b8454de8bca74f46cef3de2
+      spriteID: 4bc024cbd854b4662a5e5faa6d6ed9a1
       vertices: []
       indices: 
       edges: []
@@ -453,8 +896,8 @@ TextureImporter:
       name: spark_inclined5
       rect:
         serializedVersion: 2
-        x: 230
-        y: 410
+        x: 114
+        y: 849
         width: 115
         height: 99
       alignment: 9
@@ -464,7 +907,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 43ed0ee07823c43aa97ff9b229f6e3b8
+      spriteID: 50da097070851471785dafc3c0a4fd71
       vertices: []
       indices: 
       edges: []
@@ -473,8 +916,8 @@ TextureImporter:
       name: spark_inclined6
       rect:
         serializedVersion: 2
-        x: 314
-        y: 472
+        x: 116
+        y: 27
         width: 115
         height: 99
       alignment: 9
@@ -484,7 +927,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84d0bf035154147c7a11c14131fa147b
+      spriteID: 690d3c0be8a024277aac643b6601e70c
       vertices: []
       indices: 
       edges: []
@@ -493,8 +936,8 @@ TextureImporter:
       name: spark_inclined7
       rect:
         serializedVersion: 2
-        x: 1
-        y: 670
+        x: 129
+        y: 1166
         width: 123
         height: 109
       alignment: 9
@@ -504,7 +947,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f023c6d647be74427a6fabc6f28e7787
+      spriteID: e7e2faa41a06448aca7c6121b34bce1e
       vertices: []
       indices: 
       edges: []
@@ -513,8 +956,8 @@ TextureImporter:
       name: spark_inclined8
       rect:
         serializedVersion: 2
-        x: 1
-        y: 780
+        x: 114
+        y: 1277
         width: 123
         height: 109
       alignment: 9
@@ -524,7 +967,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2376ac5e211e4136a7d5238bf7883b6
+      spriteID: 97f8745ab81074d2ca1a0b6656b1d632
       vertices: []
       indices: 
       edges: []
@@ -533,8 +976,8 @@ TextureImporter:
       name: spark_inclined9
       rect:
         serializedVersion: 2
-        x: 265
-        y: 839
+        x: 113
+        y: 1061
         width: 123
         height: 109
       alignment: 9
@@ -544,7 +987,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2fd9e22b3d5c14546a46af13df0ad18d
+      spriteID: f64dcbf4de99745e092f7d46ad71f63f
       vertices: []
       indices: 
       edges: []
@@ -553,8 +996,8 @@ TextureImporter:
       name: spark_inclined_2_1
       rect:
         serializedVersion: 2
-        x: 204
-        y: 511
+        x: 90
+        y: 568
         width: 111
         height: 105
       alignment: 9
@@ -564,7 +1007,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 16f671ca7d17442d8bc1f961218db4cd
+      spriteID: 9595e07ab3b1b461b9374b4afe9d7d3f
       vertices: []
       indices: 
       edges: []
@@ -573,8 +1016,8 @@ TextureImporter:
       name: spark_inclined_2_2
       rect:
         serializedVersion: 2
-        x: 117
-        y: 384
+        x: 87
+        y: 128
         width: 111
         height: 105
       alignment: 9
@@ -584,7 +1027,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 520acb804e0704e099a38e85b100b0a3
+      spriteID: 554e7915dc23c492dbc3399d69837689
       vertices: []
       indices: 
       edges: []
@@ -593,8 +1036,8 @@ TextureImporter:
       name: spark_inclined_2_3
       rect:
         serializedVersion: 2
-        x: 142
-        y: 181
+        x: 221
+        y: 1846
         width: 111
         height: 100
       alignment: 9
@@ -604,7 +1047,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25534f1425b064befa77f28724ff7ae2
+      spriteID: 150e7101b8ebb406b8338ff7c4a18441
       vertices: []
       indices: 
       edges: []
@@ -613,8 +1056,8 @@ TextureImporter:
       name: spark_inclined_2_4
       rect:
         serializedVersion: 2
-        x: 324
-        y: 270
+        x: 356
+        y: 1948
         width: 109
         height: 99
       alignment: 9
@@ -624,7 +1067,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20b1fac1956d640cdab01c611f8b59af
+      spriteID: 86f511c13eb7347b1bd8f553a77153c2
       vertices: []
       indices: 
       edges: []
@@ -633,8 +1076,8 @@ TextureImporter:
       name: spark_inclined_2_5
       rect:
         serializedVersion: 2
-        x: 147
-        y: 80
+        x: 199
+        y: 329
         width: 111
         height: 99
       alignment: 9
@@ -644,7 +1087,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1b61d98bf98b646368d7fee424acd927
+      spriteID: e2004330331a14c5f85abd1659008437
       vertices: []
       indices: 
       edges: []
@@ -653,8 +1096,8 @@ TextureImporter:
       name: spark_inclined_2_6
       rect:
         serializedVersion: 2
-        x: 1
-        y: 15
+        x: 89
+        y: 346
         width: 112
         height: 105
       alignment: 9
@@ -664,7 +1107,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f393e5cd39c2e4f879fa334e69cbc03d
+      spriteID: aa285d8fbd9484ea8861c3f87b10c610
       vertices: []
       indices: 
       edges: []
@@ -673,8 +1116,8 @@ TextureImporter:
       name: spark_inclined_2_7
       rect:
         serializedVersion: 2
-        x: 342
-        y: 914
+        x: 75
+        y: 950
         width: 120
         height: 109
       alignment: 9
@@ -684,7 +1127,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 728251602e35249169ae2c1d2ec693c2
+      spriteID: c7517737c0f3e4e22be106bbedb50df3
       vertices: []
       indices: 
       edges: []
@@ -693,8 +1136,8 @@ TextureImporter:
       name: spark_inclined_2_8
       rect:
         serializedVersion: 2
-        x: 241
-        y: 728
+        x: 10
+        y: 1024
         width: 120
         height: 109
       alignment: 9
@@ -704,7 +1147,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25cee2165d3d94730b661fb163a05427
+      spriteID: 3e958b9b0075a4a98b13ca539f68e785
       vertices: []
       indices: 
       edges: []
@@ -713,8 +1156,8 @@ TextureImporter:
       name: spark_inclined_2_9
       rect:
         serializedVersion: 2
-        x: 1
-        y: 559
+        x: 131
+        y: 1711
         width: 120
         height: 109
       alignment: 9
@@ -724,7 +1167,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 63e67b30f58fb40cfa453c02f6fef9c7
+      spriteID: 94f78b77b93f047c9a4a42e66491c99b
       vertices: []
       indices: 
       edges: []
@@ -733,8 +1176,8 @@ TextureImporter:
       name: spark_strainght1
       rect:
         serializedVersion: 2
-        x: 139
-        y: 694
+        x: 1
+        y: 414
         width: 114
         height: 108
       alignment: 9
@@ -744,7 +1187,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 756347cc0e4ab40deb77bd4aad8026d2
+      spriteID: 6757c9831b69148d3adb61c91fbc5da8
       vertices: []
       indices: 
       edges: []
@@ -754,7 +1197,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 231
+        y: 86
         width: 114
         height: 107
       alignment: 9
@@ -764,7 +1207,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b7c52d9ac1cc042028cfb32e535dd4ed
+      spriteID: 8a8588abad12e4aa7a07c1e605b943f7
       vertices: []
       indices: 
       edges: []
@@ -773,8 +1216,8 @@ TextureImporter:
       name: spark_strainght3
       rect:
         serializedVersion: 2
-        x: 234
-        y: 618
+        x: 1
+        y: 854
         width: 114
         height: 108
       alignment: 9
@@ -784,7 +1227,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ac55b106af7f64b9f96245a248a4e966
+      spriteID: 83a3f2c08d79440ddbfdb8580089cf4f
       vertices: []
       indices: 
       edges: []
@@ -793,8 +1236,8 @@ TextureImporter:
       name: spark_strainght4
       rect:
         serializedVersion: 2
-        x: 1
-        y: 122
+        x: 89
+        y: 453
         width: 114
         height: 107
       alignment: 9
@@ -804,7 +1247,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a12f3c7c49304946aecac5f6315675c
+      spriteID: 9f3601057c1a142d4885a191f1d09de3
       vertices: []
       indices: 
       edges: []
@@ -814,7 +1257,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 340
+        y: 195
         width: 114
         height: 107
       alignment: 9
@@ -824,7 +1267,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 78e07fbc095f5454883370ab786d58ad
+      spriteID: 1ab12350ddffb437a822894e0088994d
       vertices: []
       indices: 
       edges: []
@@ -834,7 +1277,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1
-        y: 449
+        y: 744
         width: 114
         height: 108
       alignment: 9
@@ -844,7 +1287,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12e4c25d3897346e98f3e393388efa2c
+      spriteID: 184ac622cc5dd4a9b9632f6b79d05a55
       vertices: []
       indices: 
       edges: []
@@ -853,8 +1296,8 @@ TextureImporter:
       name: spark_strainght7
       rect:
         serializedVersion: 2
-        x: 327
-        y: 573
+        x: 1
+        y: 634
         width: 114
         height: 108
       alignment: 9
@@ -864,7 +1307,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ccfdc35f0665484f904d9bb26d62469
+      spriteID: 0eaf6539126834b5a86f8befe91bd989
       vertices: []
       indices: 
       edges: []
@@ -873,8 +1316,8 @@ TextureImporter:
       name: spark_strainght8
       rect:
         serializedVersion: 2
-        x: 111
-        y: 584
+        x: 1
+        y: 524
         width: 114
         height: 108
       alignment: 9
@@ -884,7 +1327,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 12885305bb9a648898b612e5cbab23cb
+      spriteID: 8b7cd101161c14a96885c5872c6dcd28
       vertices: []
       indices: 
       edges: []
@@ -893,8 +1336,8 @@ TextureImporter:
       name: spark_strainght9
       rect:
         serializedVersion: 2
-        x: 332
-        y: 683
+        x: 1
+        y: 304
         width: 114
         height: 108
       alignment: 9
@@ -904,7 +1347,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af4c9f88caaa04f11bf674c455bea427
+      spriteID: c37d4fc46e4024e0f86fc68472fcdc29
       vertices: []
       indices: 
       edges: []
@@ -913,8 +1356,8 @@ TextureImporter:
       name: z_0000_meteor6
       rect:
         serializedVersion: 2
-        x: 435
-        y: 305
+        x: 405
+        y: 1882
         width: 64
         height: 64
       alignment: 0
@@ -924,7 +1367,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe161f386c83c4114a4553287ca03977
+      spriteID: 2c95025a5b7ee45999f84c9ebb55c2fb
       vertices: []
       indices: 
       edges: []
@@ -933,8 +1376,8 @@ TextureImporter:
       name: z_0001_meteor5
       rect:
         serializedVersion: 2
-        x: 118
-        y: 217
+        x: 241
+        y: 1714
         width: 62
         height: 64
       alignment: 0
@@ -944,7 +1387,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8d05e9aa6a072476c87700313b6079b3
+      spriteID: c44588e55ecf641af9614171589fe285
       vertices: []
       indices: 
       edges: []
@@ -953,8 +1396,8 @@ TextureImporter:
       name: z_0002_meteor4
       rect:
         serializedVersion: 2
-        x: 435
-        y: 239
+        x: 270
+        y: 1780
         width: 63
         height: 64
       alignment: 9
@@ -964,7 +1407,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: da3866ba97c454d5291dbca1f1bccc2b
+      spriteID: ea9b8d98438e14bd1a1a654f3ac58d17
       vertices: []
       indices: 
       edges: []
@@ -973,8 +1416,8 @@ TextureImporter:
       name: z_0003_meteor3
       rect:
         serializedVersion: 2
-        x: 185
-        y: 14
+        x: 227
+        y: 838
         width: 64
         height: 64
       alignment: 0
@@ -984,7 +1427,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 284544c93eac74d43b62a1d128348411
+      spriteID: c872327c400e541d09a4b7a559a35d19
       vertices: []
       indices: 
       edges: []
@@ -993,8 +1436,8 @@ TextureImporter:
       name: z_0004_meteor2
       rect:
         serializedVersion: 2
-        x: 114
-        y: 15
+        x: 335
+        y: 1810
         width: 64
         height: 63
       alignment: 9
@@ -1004,7 +1447,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50bb36fefc429413db44f46528e53214
+      spriteID: de54f4900d1ca4d6f92090f7b310be62
       vertices: []
       indices: 
       edges: []
@@ -1013,8 +1456,8 @@ TextureImporter:
       name: z_0005_meteor1
       rect:
         serializedVersion: 2
-        x: 429
-        y: 730
+        x: 293
+        y: 852
         width: 63
         height: 61
       alignment: 9
@@ -1024,7 +1467,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: adc0febb8b0664ddcb9888554fe9d91f
+      spriteID: 1bb280cdf1ae44ed2991d55c82c993cc
       vertices: []
       indices: 
       edges: []

@@ -5,7 +5,6 @@ using System;
 
 public class Move : MonoBehaviour
 {
-    public Splatter splatter;
     public GameObject triggerAnimation;
     private GameObject prefabCopy;
     private bool colliding = false;
@@ -50,7 +49,7 @@ public class Move : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (colliding) return;
-        Debug.Log("Note OnTrigger2D Enter");
+        // Debug.Log("Note OnTrigger2D Enter");
 		Destroy(gameObject);
 
                 

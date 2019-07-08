@@ -9,7 +9,7 @@ public class NotesMaker : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("CreateNote", 0.0f,0.3f);        
+        InvokeRepeating("CreateNote", 0.0f,1.5f);        
     }
 
     // Update is called once per frame
