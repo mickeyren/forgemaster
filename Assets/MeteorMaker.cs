@@ -2,14 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NotesMaker : MonoBehaviour
+public class MeteorMaker : MonoBehaviour
 {
-    public GameObject note;
+    public GameObject meteor;
     public Camera mainCamera;
+    public float meteorTiming = 0.7f;
+
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("CreateNote", 0.0f,0.7f);        
+        InvokeRepeating("CreateMeteor", 0.0f, meteorTiming);
     }
 
     // Update is called once per frame
@@ -18,10 +20,10 @@ public class NotesMaker : MonoBehaviour
         
     }
 
-    void CreateNote()
+    void CreateMeteor()
     {
         float starty = mainCamera.transform.position.y + 5.0f;
-        Instantiate(note, new Vector3(Random.Range(-1, 2), starty, 0), Quaternion.identity);
+        Instantiate(meteor, new Vector3(Random.Range(-1, 2), starty, 0), Quaternion.identity);
         
     }
 }

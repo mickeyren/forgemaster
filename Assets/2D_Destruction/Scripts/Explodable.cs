@@ -16,6 +16,7 @@ public class Explodable : MonoBehaviour
     public string sortingLayerName = "Default";
     public int orderInLayer = 0;
     public bool exploding = false;
+    public AudioSource explosionAudioSource;
 
     public enum ShatterType
     {
@@ -24,8 +25,12 @@ public class Explodable : MonoBehaviour
     };
     public ShatterType shatterType;
     public List<GameObject> fragments = new List<GameObject>();
-    private List<List<Vector2>> polygons = new List<List<Vector2>>();    
+    private List<List<Vector2>> polygons = new List<List<Vector2>>();
 
+    private void Start()
+    {
+        explosionAudioSource = GetComponent<AudioSource>();
+    }
     /// <summary>
     /// Creates fragments if necessary and destroys original gameobject
     /// </summary>
@@ -62,6 +67,7 @@ public class Explodable : MonoBehaviour
             gameObject.GetComponent<Renderer>().enabled = false;
             gameObject.GetComponent<Rigidbody2D>().simulated = false;
             exploding = true;
+            explosionAudioSource.Play();
             Invoke("resetMe", 3);
             //Destroy(gameObject);
         }

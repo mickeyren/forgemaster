@@ -17,30 +17,27 @@ public class Player : MonoBehaviour
     public GameObject leftImpactPrefab;
     public GameObject rightImpactPrefab;
     public GameObject middleImpactPrefab;
+    public AudioSource laserAudioSource;
+
+    private void Start()
+    {
+        laserAudioSource = GetComponent<AudioSource>();
+    }
 
     // Start is called before the first frame update
     public void ToggleCanFire()
     {
-        Debug.Log("can fire");
         firing = false;
         animator.SetBool("Firing", firing);
 
 
         GameObject.Find("right target")
             .GetComponent<BoxCollider2D>().isTrigger = false;
-
         GameObject.Find("middle target")
             .GetComponent<BoxCollider2D>().isTrigger = false;
+        GameObject.Find("left target")
+            .GetComponent<BoxCollider2D>().isTrigger = false;
 
-
-        //if (animator.GetBool("LeftArrowPressed"))
-        {
-            GameObject.Find("left target")
-                .GetComponent<BoxCollider2D>().isTrigger = false;
-
-
-            //    animator.SetBool("LeftArrowPressed", false);
-        }
     }
 
     public void ToggleLeftTrigger()
@@ -49,6 +46,8 @@ public class Player : MonoBehaviour
             .GetComponent<BoxCollider2D>().isTrigger = true;
 
         Instantiate(leftImpactPrefab, leftTarget.transform.position, Quaternion.identity);
+
+        laserAudioSource.Play();
     }
 
     public void ToggleRightTrigger()
@@ -57,6 +56,8 @@ public class Player : MonoBehaviour
             .GetComponent<BoxCollider2D>().isTrigger = true;
 
         Instantiate(rightImpactPrefab, rightTarget.transform.position, Quaternion.identity);
+
+        laserAudioSource.Play();
     }
 
     public void ToggleMiddleTrigger()
@@ -65,6 +66,8 @@ public class Player : MonoBehaviour
             .GetComponent<BoxCollider2D>().isTrigger = true;
 
         Instantiate(middleImpactPrefab, middleTarget.transform.position, Quaternion.identity);
+
+        laserAudioSource.Play();
     }
 
     // Update is called once per frame
