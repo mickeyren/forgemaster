@@ -5,9 +5,6 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
 	public Animator animator;
-    public GameObject triggerAnimation;
-    private GameObject prefabCopy;
-    private bool colliding = false;
     public bool firing = false;
 
     public GameObject leftTarget;
@@ -17,6 +14,7 @@ public class Player : MonoBehaviour
     public GameObject leftImpactPrefab;
     public GameObject rightImpactPrefab;
     public GameObject middleImpactPrefab;
+
     public AudioSource laserAudioSource;
 
     private void Start()
@@ -73,6 +71,21 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.touchCount > 0)
+        {
+            Touch touch = Input.touches[0];
+
+            Vector3 wp = Camera.main.ScreenToWorldPoint(touch.position);
+            if(GameObject.Find("middle target")
+                .GetComponent<BoxCollider2D>().OverlapPoint(wp))
+            {
+                if (!firing)
+                {
+                    FireAtMiddleTarget();
+                }
+            }
+        }
+
         if (Input.GetKeyDown(KeyCode.LeftArrow))
         {
             if (animator && !firing)
@@ -121,18 +134,10 @@ public class Player : MonoBehaviour
         }
     }
 
-    //private void OnTriggerEnter2D(Collider2D collision)
-    //{
-    //    Debug.Log("Player OnTrigger2D Enter");
-    //    if (colliding) return;
-
-    //    prefabCopy = Instantiate(triggerAnimation, collision.transform.position, Quaternion.identity);
-    //    Destroy(prefabCopy, 0.35f);
-    //    colliding = true;
-    //}
-
-    //private void OnTriggerExit2D(Collider2D collision)
-    //{
-    //    //if(colliding) colliding = false;
-    //}
+    private void FireAtMiddleTarget()
+    {
+        firing = true;
+        animator.SetBool("RightArrowPressed", true);
+        animator.SetBool("Firing", firing);
+    }
 }
