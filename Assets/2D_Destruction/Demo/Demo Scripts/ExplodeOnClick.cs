@@ -9,16 +9,12 @@ public class ExplodeOnClick : MonoBehaviour {
 	void Start()
 	{
 		_explodable = GetComponent<Explodable>();
-
-        //_explodable.explode();
-
-        //ExplosionForce ef = GameObject.FindObjectOfType<ExplosionForce>();
-        //ef.doExplosion(transform.position);
     }
-	void OnMouseDown()
+
+    void OnMouseDown()
     {
-        //_explodable.explode();
-        //ExplosionForce ef = GameObject.FindObjectOfType<ExplosionForce>();
-        //ef.doExplosion(transform.position);
+        _explodable.explode();
+        ExplosionForce ef = GameObject.FindObjectOfType<ExplosionForce>();
+        ef.doExplosion(transform.position);
     }
 }

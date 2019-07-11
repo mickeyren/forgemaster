@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEditor;
+using System;
 
 [RequireComponent(typeof(Rigidbody2D))]
 public class Explodable : MonoBehaviour
@@ -9,6 +10,7 @@ public class Explodable : MonoBehaviour
     public System.Action<List<GameObject>> OnFragmentsGenerated;
 
     public bool allowRuntimeFragmentation = false;
+
     public int extraPoints = 0;
     public int subshatterSteps = 0;
 
@@ -34,7 +36,7 @@ public class Explodable : MonoBehaviour
     /// <summary>
     /// Creates fragments if necessary and destroys original gameobject
     /// </summary>
-    public void explode(Vector2 pos)
+    public void explode()
     {
         //if fragments were not created before runtime then create them now
         if (fragments.Count == 0 && allowRuntimeFragmentation)
@@ -46,37 +48,25 @@ public class Explodable : MonoBehaviour
         {
             foreach (GameObject frag in fragments)
             {
-                //frag.transform.parent = null;
-                //Debug.Log("setting rigid body position");
-                //Rigidbody2D rb = frag.GetComponent<Rigidbody2D>();
-                //rb.position.Set(-3.0f, 3.0f);
-                
                 FadeOut fo = frag.GetComponent<FadeOut>();
                 fo.Prepare();
-
-                
-                //rb.simulated = false;
-                //frag.transform.position = pos;
-
             }
         }
         //if fragments exist destroy the original
         if (fragments.Count > 0)
         {
-            //gameObject.SetActive(false);
+            //gameObject.transform.position = pos;
             gameObject.GetComponent<Renderer>().enabled = false;
             gameObject.GetComponent<Rigidbody2D>().simulated = false;
             exploding = true;
             explosionAudioSource.Play();
+
             Invoke("resetMe", 3);
-            //Destroy(gameObject);
         }
     }
 
     private void resetMe()
     {
-        //gameObject.GetComponent<Renderer>().enabled = true;
-        //gameObject.GetComponent<Rigidbody2D>().simulated = true;
         foreach (GameObject frag in fragments)
         {
             FadeOut fo = frag.GetComponent<FadeOut>();

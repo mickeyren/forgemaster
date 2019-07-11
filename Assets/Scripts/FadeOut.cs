@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class FadeOut : MonoBehaviour
 {
-    public float fadeOutTime = 1.0f;
-
+    private float fadeOutTime = 1.0f;
     private Vector2 origposition;
     private Quaternion origrotation;
 
@@ -43,7 +42,6 @@ public class FadeOut : MonoBehaviour
 
     IEnumerator SpriteFadeOut( MeshRenderer _sprite)
     {
-        //Debug.Log("corouting fade out");
         Color tmpColor = _sprite.material.color;
 
         while (tmpColor.a > 0f)
@@ -66,6 +64,7 @@ public class FadeOut : MonoBehaviour
     {
         _sprite.AddForce(new Vector2(Random.Range(-2f, 2f), Random.Range(-2f, 2f)), ForceMode2D.Impulse);
         _sprite.AddTorque(Random.Range(-2f, 2f));
+
         yield return null;
     }
 }

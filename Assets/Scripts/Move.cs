@@ -48,6 +48,6 @@ public class Move : MonoBehaviour
         meteorFragment.transform.position = collision.transform.position;
 
         Explodable _explodable = meteorFragment.GetComponent<Explodable>();
-        _explodable.explode(collision.transform.position);
+        _explodable.explode();
     }
 }
