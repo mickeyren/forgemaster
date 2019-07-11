@@ -43,7 +43,7 @@ public class Player : MonoBehaviour
         GameObject.Find("LeftTarget")
             .GetComponent<BoxCollider2D>().isTrigger = true;
 
-        Instantiate(leftImpactPrefab, leftTarget.transform.position, Quaternion.identity);
+        Destroy(Instantiate(leftImpactPrefab, leftTarget.transform.position, Quaternion.identity), 0.5f);
 
         laserAudioSource.Play();
     }
@@ -53,7 +53,7 @@ public class Player : MonoBehaviour
         GameObject.Find("RightTarget")
             .GetComponent<BoxCollider2D>().isTrigger = true;
 
-        Instantiate(rightImpactPrefab, rightTarget.transform.position, Quaternion.identity);
+        Destroy(Instantiate(rightImpactPrefab, rightTarget.transform.position, Quaternion.identity), 0.5f);
 
         laserAudioSource.Play();
     }
@@ -63,7 +63,7 @@ public class Player : MonoBehaviour
         GameObject.Find("MiddleTarget")
             .GetComponent<BoxCollider2D>().isTrigger = true;
 
-        Instantiate(middleImpactPrefab, middleTarget.transform.position, Quaternion.identity);
+        Destroy(Instantiate(middleImpactPrefab, middleTarget.transform.position, Quaternion.identity), 0.5f);
 
         laserAudioSource.Play();
     }
@@ -88,7 +88,7 @@ public class Player : MonoBehaviour
                                 if (GameObject.Find(target)
                                     .GetComponent<BoxCollider2D>().OverlapPoint(wp))
                                 {
-                                    MethodInfo mi = this.GetType().GetMethod(target, BindingFlags.NonPublic | BindingFlags.Public | BindingFlags.Instance);
+                                    MethodInfo mi = this.GetType().GetMethod("Fire" + target, BindingFlags.NonPublic | BindingFlags.Public | BindingFlags.Instance);
                                     Debug.Log(mi);
                                     mi.Invoke(this, null);
                                 }

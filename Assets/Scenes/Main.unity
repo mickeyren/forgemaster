@@ -799,7 +799,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &28777647
 Rigidbody2D:
   serializedVersion: 4
@@ -1261,7 +1260,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &45435961
 Rigidbody2D:
   serializedVersion: 4
@@ -1406,7 +1404,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &49684271
 Rigidbody2D:
   serializedVersion: 4
@@ -1948,7 +1945,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &63404085
 Rigidbody2D:
   serializedVersion: 4
@@ -2173,7 +2169,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &65876833
 Rigidbody2D:
   serializedVersion: 4
@@ -2958,7 +2953,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &106564546
 Rigidbody2D:
   serializedVersion: 4
@@ -3100,7 +3094,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &112781498
 Rigidbody2D:
   serializedVersion: 4
@@ -3244,7 +3237,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &121058018
 Rigidbody2D:
   serializedVersion: 4
@@ -3709,7 +3701,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &129505526
 Rigidbody2D:
   serializedVersion: 4
@@ -3851,7 +3842,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &129922826
 Rigidbody2D:
   serializedVersion: 4
@@ -3994,7 +3984,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &138090568
 Rigidbody2D:
   serializedVersion: 4
@@ -5417,7 +5406,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &195607499
 Rigidbody2D:
   serializedVersion: 4
@@ -5720,7 +5708,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &210886019
 Rigidbody2D:
   serializedVersion: 4
@@ -5866,7 +5853,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &215636442
 Rigidbody2D:
   serializedVersion: 4
@@ -6488,7 +6474,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &271410059
 Rigidbody2D:
   serializedVersion: 4
@@ -6792,7 +6777,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &276069461
 Rigidbody2D:
   serializedVersion: 4
@@ -7095,7 +7079,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &284998100
 Rigidbody2D:
   serializedVersion: 4
@@ -7239,7 +7222,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &288505717
 Rigidbody2D:
   serializedVersion: 4
@@ -7381,7 +7363,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &289696030
 Rigidbody2D:
   serializedVersion: 4
@@ -7524,7 +7505,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &294864848
 Rigidbody2D:
   serializedVersion: 4
@@ -7667,7 +7647,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &303993731
 Rigidbody2D:
   serializedVersion: 4
@@ -7972,7 +7951,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &324023323
 Rigidbody2D:
   serializedVersion: 4
@@ -8117,7 +8095,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &330945416
 Rigidbody2D:
   serializedVersion: 4
@@ -8261,7 +8238,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &362336399
 Rigidbody2D:
   serializedVersion: 4
@@ -8403,7 +8379,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &381100708
 Rigidbody2D:
   serializedVersion: 4
@@ -8548,7 +8523,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &388834886
 Rigidbody2D:
   serializedVersion: 4
@@ -8693,7 +8667,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &390392291
 Rigidbody2D:
   serializedVersion: 4
@@ -9635,7 +9608,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &415706798
 Rigidbody2D:
   serializedVersion: 4
@@ -9779,7 +9751,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &415923899
 Rigidbody2D:
   serializedVersion: 4
@@ -10535,7 +10506,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &444418884
 Rigidbody2D:
   serializedVersion: 4
@@ -11194,7 +11164,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &471825200
 Rigidbody2D:
   serializedVersion: 4
@@ -11976,7 +11945,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &492676381
 Rigidbody2D:
   serializedVersion: 4
@@ -12442,7 +12410,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &502677075
 Rigidbody2D:
   serializedVersion: 4
@@ -12744,7 +12711,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &503282281
 Rigidbody2D:
   serializedVersion: 4
@@ -12887,7 +12853,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &506367765
 Rigidbody2D:
   serializedVersion: 4
@@ -13192,7 +13157,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &515487097
 Rigidbody2D:
   serializedVersion: 4
@@ -13368,12 +13332,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 534118903}
-  - {fileID: 831520239}
-  - {fileID: 1629040376}
-  - {fileID: 1999817415}
-  - {fileID: 990503907}
+  m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -13406,7 +13365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1864a7670caf64f848e628835d26afea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  meteor: {fileID: 5235331891748470031, guid: 2fdaf16d2126746cebcf14bc50eac97c, type: 3}
+  meteor: {fileID: 3168643944401181723, guid: 049b1088d94a9460897d122d4a7cccdb, type: 3}
   mainCamera: {fileID: 519420031}
   meteorTiming: 0.7
 --- !u!4 &534118903
@@ -13417,11 +13376,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534118901}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.822195, y: 4.273173, z: 3.1791644}
+  m_LocalPosition: {x: -4.822195, y: 4.273173, z: -6.8208356}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 519420032}
-  m_RootOrder: 0
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &538928941
 GameObject:
@@ -13470,7 +13429,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &538928944
 Rigidbody2D:
   serializedVersion: 4
@@ -13614,7 +13572,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &542886485
 Rigidbody2D:
   serializedVersion: 4
@@ -14238,7 +14195,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &564955606
 Rigidbody2D:
   serializedVersion: 4
@@ -14380,7 +14336,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &565041826
 Rigidbody2D:
   serializedVersion: 4
@@ -14525,7 +14480,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &569941345
 Rigidbody2D:
   serializedVersion: 4
@@ -14829,7 +14783,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &574763567
 Rigidbody2D:
   serializedVersion: 4
@@ -14974,7 +14927,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &578116501
 Rigidbody2D:
   serializedVersion: 4
@@ -15119,7 +15071,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &582250837
 Rigidbody2D:
   serializedVersion: 4
@@ -16381,7 +16332,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &626682081
 Rigidbody2D:
   serializedVersion: 4
@@ -16559,7 +16509,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &643460895
 Rigidbody2D:
   serializedVersion: 4
@@ -16863,7 +16812,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &663018193
 Rigidbody2D:
   serializedVersion: 4
@@ -17007,7 +16955,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &665647953
 Rigidbody2D:
   serializedVersion: 4
@@ -17311,7 +17258,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &671161336
 Rigidbody2D:
   serializedVersion: 4
@@ -17453,7 +17399,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &672984936
 Rigidbody2D:
   serializedVersion: 4
@@ -17757,7 +17702,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &694885661
 Rigidbody2D:
   serializedVersion: 4
@@ -18061,7 +18005,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &702668532
 Rigidbody2D:
   serializedVersion: 4
@@ -18364,7 +18307,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &709891116
 Rigidbody2D:
   serializedVersion: 4
@@ -18507,7 +18449,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &735739061
 Rigidbody2D:
   serializedVersion: 4
@@ -18812,7 +18753,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &742405681
 Rigidbody2D:
   serializedVersion: 4
@@ -19114,7 +19054,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &750045113
 Rigidbody2D:
   serializedVersion: 4
@@ -19578,7 +19517,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &754605735
 Rigidbody2D:
   serializedVersion: 4
@@ -19723,7 +19661,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &763751919
 Rigidbody2D:
   serializedVersion: 4
@@ -20033,7 +19970,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &771840246
 Rigidbody2D:
   serializedVersion: 4
@@ -20179,7 +20115,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &772822576
 Rigidbody2D:
   serializedVersion: 4
@@ -20484,7 +20419,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &806224330
 Rigidbody2D:
   serializedVersion: 4
@@ -20627,7 +20561,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &807817948
 Rigidbody2D:
   serializedVersion: 4
@@ -21090,7 +21023,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &822842009
 Rigidbody2D:
   serializedVersion: 4
@@ -21261,11 +21193,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 831520237}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.57, y: -2.77, z: 10}
+  m_LocalPosition: {x: -1.57, y: -2.77, z: 0}
   m_LocalScale: {x: 1, y: 0.3, z: 1.5662}
   m_Children: []
-  m_Father: {fileID: 519420032}
-  m_RootOrder: 1
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &831520240
 BoxCollider2D:
@@ -21500,7 +21432,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &855112822
 Rigidbody2D:
   serializedVersion: 4
@@ -21962,7 +21893,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &871724533
 Rigidbody2D:
   serializedVersion: 4
@@ -22425,7 +22355,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &894162451
 Rigidbody2D:
   serializedVersion: 4
@@ -23183,7 +23112,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &915715087
 Rigidbody2D:
   serializedVersion: 4
@@ -24109,7 +24037,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &935010759
 Rigidbody2D:
   serializedVersion: 4
@@ -24252,7 +24179,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &939368127
 Rigidbody2D:
   serializedVersion: 4
@@ -24396,7 +24322,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &949200723
 Rigidbody2D:
   serializedVersion: 4
@@ -24539,7 +24464,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &957413266
 Rigidbody2D:
   serializedVersion: 4
@@ -24685,7 +24609,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &960617109
 Rigidbody2D:
   serializedVersion: 4
@@ -24989,7 +24912,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &966241376
 Rigidbody2D:
   serializedVersion: 4
@@ -25289,7 +25211,7 @@ MonoBehaviour:
       MaxXPercent: 0
   - GameObjects:
     - {fileID: 64227534}
-    SpeedRatio: 0.5
+    SpeedRatio: 0.3
     RepositionLogic:
       PositionMode: 2
       ScaleHeight: 0.2
@@ -25314,7 +25236,7 @@ Transform:
   - {fileID: 64227536}
   - {fileID: 56484427}
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &979671837
 GameObject:
@@ -25363,7 +25285,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &979671840
 Rigidbody2D:
   serializedVersion: 4
@@ -25665,7 +25586,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &987521261
 Rigidbody2D:
   serializedVersion: 4
@@ -25808,7 +25728,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &989217871
 Rigidbody2D:
   serializedVersion: 4
@@ -25918,7 +25837,7 @@ GameObject:
   - component: {fileID: 990503905}
   - component: {fileID: 990503909}
   m_Layer: 0
-  m_Name: lazer
+  m_Name: Lazer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26003,11 +25922,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 990503904}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -4.37, z: 10}
+  m_LocalPosition: {x: 0, y: -4.37, z: 0}
   m_LocalScale: {x: 1.5, y: 1.5, z: 2.7026}
   m_Children: []
-  m_Father: {fileID: 519420032}
-  m_RootOrder: 4
+  m_Father: {fileID: 0}
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &990503908
 Animator:
@@ -26331,7 +26250,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &992957954
 Rigidbody2D:
   serializedVersion: 4
@@ -26473,7 +26391,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &995283465
 Rigidbody2D:
   serializedVersion: 4
@@ -26618,7 +26535,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1003092795
 Rigidbody2D:
   serializedVersion: 4
@@ -26762,7 +26678,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1010492433
 Rigidbody2D:
   serializedVersion: 4
@@ -27065,7 +26980,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1013386461
 Rigidbody2D:
   serializedVersion: 4
@@ -27369,7 +27283,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1046493214
 Rigidbody2D:
   serializedVersion: 4
@@ -27511,7 +27424,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1059626027
 Rigidbody2D:
   serializedVersion: 4
@@ -27653,7 +27565,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1061939249
 Rigidbody2D:
   serializedVersion: 4
@@ -27958,7 +27869,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1076136572
 Rigidbody2D:
   serializedVersion: 4
@@ -28103,7 +28013,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1078319435
 Rigidbody2D:
   serializedVersion: 4
@@ -28245,7 +28154,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1095800686
 Rigidbody2D:
   serializedVersion: 4
@@ -28389,7 +28297,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1100706004
 Rigidbody2D:
   serializedVersion: 4
@@ -29331,7 +29238,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1152763503
 Rigidbody2D:
   serializedVersion: 4
@@ -29796,7 +29702,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1171720131
 Rigidbody2D:
   serializedVersion: 4
@@ -30454,7 +30359,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1200620932
 Rigidbody2D:
   serializedVersion: 4
@@ -30602,7 +30506,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1213062804
 Rigidbody2D:
   serializedVersion: 4
@@ -30907,7 +30810,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1224535818
 Rigidbody2D:
   serializedVersion: 4
@@ -31053,7 +30955,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1232106416
 Rigidbody2D:
   serializedVersion: 4
@@ -31355,7 +31256,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1256609380
 Rigidbody2D:
   serializedVersion: 4
@@ -31658,7 +31558,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1265302083
 Rigidbody2D:
   serializedVersion: 4
@@ -31803,7 +31702,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1267217034
 Rigidbody2D:
   serializedVersion: 4
@@ -32106,7 +32004,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1287731071
 Rigidbody2D:
   serializedVersion: 4
@@ -32408,7 +32305,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1306744111
 Rigidbody2D:
   serializedVersion: 4
@@ -32870,7 +32766,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1341092740
 Rigidbody2D:
   serializedVersion: 4
@@ -33014,7 +32909,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1341667653
 Rigidbody2D:
   serializedVersion: 4
@@ -33157,7 +33051,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1355851127
 Rigidbody2D:
   serializedVersion: 4
@@ -33299,7 +33192,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1361630197
 Rigidbody2D:
   serializedVersion: 4
@@ -33601,7 +33493,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1380665701
 Rigidbody2D:
   serializedVersion: 4
@@ -33904,7 +33795,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1389386902
 Rigidbody2D:
   serializedVersion: 4
@@ -34046,7 +33936,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1406436362
 Rigidbody2D:
   serializedVersion: 4
@@ -34484,7 +34373,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1414753794
 Rigidbody2D:
   serializedVersion: 4
@@ -34946,7 +34834,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1434985374
 Rigidbody2D:
   serializedVersion: 4
@@ -35249,7 +35136,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1436272143
 Rigidbody2D:
   serializedVersion: 4
@@ -35392,7 +35278,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1438594063
 Rigidbody2D:
   serializedVersion: 4
@@ -35534,7 +35419,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1446822438
 Rigidbody2D:
   serializedVersion: 4
@@ -35837,7 +35721,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1449637338
 Rigidbody2D:
   serializedVersion: 4
@@ -35980,7 +35863,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1451630133
 Rigidbody2D:
   serializedVersion: 4
@@ -36606,7 +36488,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1471432609
 Rigidbody2D:
   serializedVersion: 4
@@ -36751,7 +36632,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1472178677
 Rigidbody2D:
   serializedVersion: 4
@@ -37043,7 +36923,7 @@ Transform:
   - {fileID: 2051985720}
   - {fileID: 2028673888}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1534300718
 GameObject:
@@ -37092,7 +36972,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1534300721
 Rigidbody2D:
   serializedVersion: 4
@@ -37397,7 +37276,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1534902822
 Rigidbody2D:
   serializedVersion: 4
@@ -37539,7 +37417,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1542578304
 Rigidbody2D:
   serializedVersion: 4
@@ -37843,7 +37720,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1560494838
 Rigidbody2D:
   serializedVersion: 4
@@ -37985,7 +37861,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1561038939
 Rigidbody2D:
   serializedVersion: 4
@@ -38130,7 +38005,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1564545532
 Rigidbody2D:
   serializedVersion: 4
@@ -38273,7 +38147,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1566884786
 Rigidbody2D:
   serializedVersion: 4
@@ -38417,7 +38290,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1576194814
 Rigidbody2D:
   serializedVersion: 4
@@ -38719,7 +38591,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1594692296
 Rigidbody2D:
   serializedVersion: 4
@@ -38862,7 +38733,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1604670099
 Rigidbody2D:
   serializedVersion: 4
@@ -39198,7 +39068,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1607087971
 Rigidbody2D:
   serializedVersion: 4
@@ -39298,6 +39167,149 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1607087968}
   m_Mesh: {fileID: 556954299}
+--- !u!1001 &1607821948
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 177638, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_Name
+      value: '[Graphy]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22451668, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224000010937413736, guid: 0abab5bb77339e4428787a870eb31bd3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 168050, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000013357413722, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 224000010243477314, guid: 0abab5bb77339e4428787a870eb31bd3,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.2000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 22465754, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.2000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 22439978, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.2000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 22445198, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.2000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 22477518, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.2000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 22424132, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.2000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 22460488, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.2000122
+      objectReference: {fileID: 0}
+    - target: {fileID: 22450346, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -0.2000122
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0abab5bb77339e4428787a870eb31bd3, type: 3}
 --- !u!1 &1609966122
 GameObject:
   m_ObjectHideFlags: 0
@@ -39345,7 +39357,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1609966125
 Rigidbody2D:
   serializedVersion: 4
@@ -39674,11 +39685,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1629040374}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -2.77, z: 10}
+  m_LocalPosition: {x: 0, y: -2.77, z: 0}
   m_LocalScale: {x: 1, y: 0.3, z: 1.5662}
   m_Children: []
-  m_Father: {fileID: 519420032}
-  m_RootOrder: 2
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1629040377
 BoxCollider2D:
@@ -39913,7 +39924,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1643018678
 Rigidbody2D:
   serializedVersion: 4
@@ -40056,7 +40066,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1647812416
 Rigidbody2D:
   serializedVersion: 4
@@ -40200,7 +40209,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1661748090
 Rigidbody2D:
   serializedVersion: 4
@@ -40665,7 +40673,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1675819978
 Rigidbody2D:
   serializedVersion: 4
@@ -40811,7 +40818,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1677918123
 Rigidbody2D:
   serializedVersion: 4
@@ -40954,7 +40960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1679379709
 Rigidbody2D:
   serializedVersion: 4
@@ -42218,7 +42223,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1781375769
 Rigidbody2D:
   serializedVersion: 4
@@ -42522,7 +42526,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1785147551
 Rigidbody2D:
   serializedVersion: 4
@@ -42664,7 +42667,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1787355558
 Rigidbody2D:
   serializedVersion: 4
@@ -42808,7 +42810,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1789596488
 Rigidbody2D:
   serializedVersion: 4
@@ -42952,7 +42953,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1794754191
 Rigidbody2D:
   serializedVersion: 4
@@ -43255,7 +43255,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1800427173
 Rigidbody2D:
   serializedVersion: 4
@@ -43557,7 +43556,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1808329492
 Rigidbody2D:
   serializedVersion: 4
@@ -43700,7 +43698,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1818360281
 Rigidbody2D:
   serializedVersion: 4
@@ -44003,7 +44000,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1824779502
 Rigidbody2D:
   serializedVersion: 4
@@ -44466,7 +44462,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1853455967
 Rigidbody2D:
   serializedVersion: 4
@@ -44929,7 +44924,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1874478803
 Rigidbody2D:
   serializedVersion: 4
@@ -45267,7 +45261,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1913007931
 Rigidbody2D:
   serializedVersion: 4
@@ -45569,7 +45562,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1952825258
 Rigidbody2D:
   serializedVersion: 4
@@ -46844,7 +46836,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &1991012825
 Rigidbody2D:
   serializedVersion: 4
@@ -47176,11 +47167,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1999817413}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.57, y: -2.77, z: 10}
+  m_LocalPosition: {x: 1.57, y: -2.77, z: 0}
   m_LocalScale: {x: 1, y: 0.3, z: 1.5662}
   m_Children: []
-  m_Father: {fileID: 519420032}
-  m_RootOrder: 3
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!61 &1999817416
 BoxCollider2D:
@@ -47735,7 +47726,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &2012110775
 Rigidbody2D:
   serializedVersion: 4
@@ -47877,7 +47867,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &2014531917
 Rigidbody2D:
   serializedVersion: 4
@@ -48606,7 +48595,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &2047183497
 Rigidbody2D:
   serializedVersion: 4
@@ -48751,7 +48739,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &2050488168
 Rigidbody2D:
   serializedVersion: 4
@@ -49378,7 +49365,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &2089315642
 Rigidbody2D:
   serializedVersion: 4
@@ -49520,7 +49506,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &2093022941
 Rigidbody2D:
   serializedVersion: 4
@@ -49662,7 +49647,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &2097057726
 Rigidbody2D:
   serializedVersion: 4
@@ -50450,7 +50434,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &2118889237
 Rigidbody2D:
   serializedVersion: 4
@@ -50592,7 +50575,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b1aeec31ac114e21a8da5dc9a692b54, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fadeOutTime: 1
 --- !u!50 &2132820700
 Rigidbody2D:
   serializedVersion: 4

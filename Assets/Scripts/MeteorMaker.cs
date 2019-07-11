@@ -23,7 +23,6 @@ public class MeteorMaker : MonoBehaviour
     void CreateMeteor()
     {
         float starty = mainCamera.transform.position.y + 5.5f;
-        Instantiate(meteor, new Vector3(Random.Range(-1, 2), starty, 0), Quaternion.identity);
-        
+        Instantiate(meteor, new Vector3(Random.Range(-1, 2), starty, 0), Quaternion.identity);        
     }
 }
